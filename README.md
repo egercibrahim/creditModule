@@ -32,7 +32,7 @@ Built with:
 ### 1. Clone Project
 ```bash
 git clone https://github.com/egercibrahim/creditModule.git
-cd credit-module
+cd creditModule
 ```
 
 ### 2. Build
